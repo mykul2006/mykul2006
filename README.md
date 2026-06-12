@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Mythreya%20KVL&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Cybersecurity%20Professional%20%7C%20Blue%20Team%20%7C%20SOC%20%7C%20Threat%20Detection&descAlignY=55&descSize=18)
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/mykul2006">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Securing+Systems%2C+One+Log+at+a+Time;Blue+Team+%7C+SOC+Operations+%7C+Threat+Hunting;OSINT+%7C+Network+Security+%7C+Incident+Response;Learning%2C+Building%2C+Defending" alt="Typing SVG" />
 </a>
 
@@ -13,16 +13,15 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Email](https://img.shields.io/badge/Email-4338CA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mythreya-kvl-8b7897315/)
+[![Email](https://img.shields.io/badge/Email-4338CA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maithreyakvl@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mykul2006)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=8b5cf6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=7c3aed&logo=github)
-![Stars](https://img.shields.io/github/stars/yourusername?label=Total%20Stars&style=for-the-badge&color=6d28d9&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=mykul2006&label=Profile%20Views&color=8b5cf6&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/mykul2006?label=Followers&style=for-the-badge&color=7c3aed&logo=github)
+![Stars](https://img.shields.io/github/stars/mykul2006?label=Total%20Stars&style=for-the-badge&color=6d28d9&logo=github)
 
 </div>
 
@@ -92,7 +91,7 @@ I'm currently building a portfolio of **security automation projects** — from 
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=github,linux,git,bash&theme=dark)
+![Skills](https://skillicons.dev/icons?i=aws,github,linux,git,bash&theme=dark)
 
 </div>
 
@@ -109,6 +108,7 @@ I'm currently building a portfolio of **security automation projects** — from 
 | **Threat Detection & Monitoring** | ⭐⭐⭐⭐ | Security monitoring, suspicious activity detection, log-based analysis |
 | **Incident Response** | ⭐⭐⭐ | IR fundamentals, event log analysis, response workflow basics |
 | **Log Analysis** | ⭐⭐⭐⭐ | Windows Event Logs, security event correlation |
+| **Cloud Security Fundamentals** | ⭐⭐⭐ | AWS Cloud Foundations, core cloud architecture & security concepts |
 | **Blue Team Fundamentals** | ⭐⭐⭐ | SOC workflows, defensive monitoring, security hygiene practices |
 
 </div>
@@ -131,7 +131,7 @@ A phishing detection tool that analyzes URLs for suspicious patterns and provide
 | **Performance** | Real-time risk scoring with instant feedback |
 | **Security** | Pattern-based detection of phishing indicators |
 | **Impact** | Demonstrates practical application of security automation for end users |
-| **Repository** | [github.com/yourusername/phishguard](https://github.com/yourusername/phishguard) |
+| **Repository** | [github.com/mykul2006/phishguard](https://github.com/mykul2006/phishguard) |
 
 PhishGuard extracts key features from a given URL — domain age, suspicious keywords, character patterns, and structural anomalies — and uses them to generate a risk classification. Built with a Streamlit interface for accessibility, the project demonstrates how lightweight tools can support phishing awareness and prevention.
 
@@ -151,7 +151,7 @@ A monitoring tool that parses and analyzes Windows Event Logs to detect suspicio
 | **Performance** | Highlights flagged events with categorized severity |
 | **Security** | Identifies failed logins, privilege changes, and anomalous activity |
 | **Impact** | Provides a foundational SOC-style monitoring workflow |
-| **Repository** | [github.com/yourusername/winlogsentinel](https://github.com/yourusername/winlogsentinel) |
+| **Repository** | [github.com/mykul2006/winlogsentinel](https://github.com/mykul2006/winlogsentinel) |
 
 WinLogSentinel reads Windows Event Logs and applies detection logic to surface security-relevant events — such as repeated failed login attempts, account lockouts, and privilege escalation indicators — presenting them through an interactive Streamlit dashboard for easier triage.
 
@@ -171,7 +171,7 @@ A reconnaissance tool that checks emails and usernames against breach intelligen
 | **Performance** | Fast lookup with consolidated results |
 | **Security** | Helps users identify compromised credentials proactively |
 | **Impact** | Supports personal and organizational security hygiene checks |
-| **Repository** | [github.com/yourusername/breachexposer](https://github.com/yourusername/breachexposer) |
+| **Repository** | [github.com/mykul2006/breachexposer](https://github.com/mykul2006/breachexposer) |
 
 BreachExposer queries breach intelligence sources to determine whether a given email or username has appeared in known data breaches, then compiles the results into a risk assessment summary — useful for proactive credential hygiene and awareness.
 
@@ -191,7 +191,7 @@ A comprehensive OSINT investigation combining multiple reconnaissance techniques
 | **Performance** | Structured report combining findings from each technique |
 | **Security** | Demonstrates passive reconnaissance methodology used in real engagements |
 | **Impact** | Showcases practical OSINT methodology for security assessments |
-| **Repository** | [github.com/yourusername/osint-recon-report](https://github.com/yourusername/osint-recon-report) |
+| **Repository** | [github.com/mykul2006/osint-recon-report](https://github.com/mykul2006/osint-recon-report) |
 
 This project combines **Google Dorking** for exposed information discovery, **WHOIS analysis** for domain ownership and registration details, **Reverse IP Lookup** for hosting infrastructure mapping, **Wappalyzer fingerprinting** for technology stack identification, **Wayback Machine analysis** for historical site changes, and **HTTrack** for offline website mirroring — compiled into a structured reconnaissance report demonstrating end-to-end OSINT methodology.
 
@@ -223,6 +223,8 @@ Completed a cybersecurity internship focused on building foundational skills in 
 |-------------|---------|
 | 🎓 Lateral Entry Admission | Joined B.Tech program directly into 2nd year based on prior academic performance |
 | 📜 Cybersecurity Internship Completion | Successfully completed structured internship program in cybersecurity fundamentals |
+| ☁️ AWS Academy Cloud Foundations Graduate | Completed 20-hour AWS cloud fundamentals program (Feb 2026) |
+| 🐧 Red Hat System Administration I (RH124) | Completed 40-credit-hour Red Hat Linux administration course (Mar 2026) |
 | 🔍 OSINT Reconnaissance Project | Independently built a multi-tool OSINT methodology report |
 | 🛠️ Security Tool Development | Built 3+ functional security tools using Python and Streamlit |
 
@@ -232,16 +234,19 @@ Completed a cybersecurity internship focused on building foundational skills in 
 
 ## 📜 Certifications
 
-### Internship Certifications
+### Red Hat
+
+[![Red Hat System Administration I](https://img.shields.io/badge/Red%20Hat-System%20Administration%20I%20(RH124)-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://www.credly.com/badges/802cb7f5-a42d-4836-844e-bee29adc8d38)
+
+### AWS
+
+[![AWS Academy Cloud Foundations](https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations%20Graduate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/go/s62c36MB)
+
+### Cybersecurity Internship
 
 ![Cybersecurity Internship](https://img.shields.io/badge/Cybersecurity-Internship%20Certificate-6D28D9?style=for-the-badge&logo=hackthebox&logoColor=white)
 
-### Additional Certifications
-
-![Certification](https://img.shields.io/badge/Add-Your%20Certification-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Certification](https://img.shields.io/badge/Add-Your%20Certification-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white)
-
-> *Add additional certifications here using the same badge format — provider name, course title, and an appropriate logo (e.g., Cisco, AWS, TryHackMe, Coursera).*
+> *Add additional certifications here as you earn them, following the same badge format.*
 
 ---
 
@@ -249,10 +254,10 @@ Completed a cybersecurity internship focused on building foundational skills in 
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/yourusername)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/yourusername)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/yourusername)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-A78BFA?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yourusername)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/mykul2006)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/mykul2006)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/mykul2006)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-A78BFA?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/mykul2006)
 
 </div>
 
@@ -262,12 +267,12 @@ Completed a cybersecurity internship focused on building foundational skills in 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mykul2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mykul2006&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykul2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" width="50%" />
 
 </div>
 
@@ -277,7 +282,7 @@ Completed a cybersecurity internship focused on building foundational skills in 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=mykul2006&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" />
 
 </div>
 
@@ -287,7 +292,7 @@ Completed a cybersecurity internship focused on building foundational skills in 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mykul2006&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%" />
 
 </div>
 
@@ -297,7 +302,7 @@ Completed a cybersecurity internship focused on building foundational skills in 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/mykul2006/mykul2006/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
@@ -334,10 +339,9 @@ open_to:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-youremail%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
+[![Gmail](https://img.shields.io/badge/Gmail-maithreyakvl%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maithreyakvl@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mythreya-kvl-8b7897315/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mykul2006)
 
 </div>
 
