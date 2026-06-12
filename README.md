@@ -1,3 +1,4 @@
+
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Mythreya%20KVL&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Cybersecurity%20Professional%20%7C%20Blue%20Team%20%7C%20SOC%20%7C%20Threat%20Detection&descAlignY=55&descSize=18)
@@ -30,16 +31,16 @@
 ## 🛡️ About Me
 
 ```yaml
-name: "Mythreya KVL"
-dob: "15 November 2006"
-education: "B.Tech in Computer Engineering (Cybersecurity) — Lateral Entry, 2nd Year Start"
-role: "Aspiring Cybersecurity Professional"
-focus:
+NMAE: "Mythreya KVL"
+DOB: "15 November 2006"
+EDUCATION: "B.Tech in Computer Engineering (Cybersecurity) — Lateral Entry, 2nd Year Start"
+ROLE: "Aspiring Cybersecurity Professional"
+FOCUS:
   - "Blue Team Operations & SOC Workflows"
   - "Threat Detection & Incident Response"
   - "Network Security & Log Analysis"
   - "OSINT & Digital Reconnaissance"
-philosophy: "Defense is a discipline — detect early, respond fast, learn always."
+PHILOSPHY: "Defense is a discipline — detect early, respond fast, learn always."
 ```
 
 I'm a Computer Engineering student specializing in **Cybersecurity**, with a strong focus on **Blue Team operations, SOC workflows, and network defense**. As a lateral entry student who joined directly into the second year, I've worked to build a solid foundation across both **software development fundamentals** and **applied security skills** in a condensed timeframe.
@@ -94,7 +95,32 @@ I'm currently building a portfolio of **security automation projects** — from 
 ![Skills](https://skillicons.dev/icons?i=aws,github,linux,git,bash&theme=dark)
 
 </div>
+---
 
+## 🧰 Security Tools & Platforms
+
+### SIEM / SOC Platforms
+
+![Splunk](https://img.shields.io/badge/Splunk%20Enterprise%20Security-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-67B36D?style=for-the-badge&logo=wazuh&logoColor=white)
+
+### EDR / XDR
+
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike%20Falcon-E01F27?style=for-the-badge&logo=crowdstrike&logoColor=white)
+
+### Network Security & IDS/IPS
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort%20%2F%20Suricata-CC0000?style=for-the-badge&logo=snort&logoColor=white)
+
+### Penetration Testing & Reconnaissance
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite%20Professional-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Maltego](https://img.shields.io/badge/Maltego-7C3AED?style=for-the-badge&logo=maltego&logoColor=white)
 ---
 
 ## 🔐 Cybersecurity Expertise
@@ -103,13 +129,15 @@ I'm currently building a portfolio of **security automation projects** — from 
 
 | Domain | Proficiency | Details |
 |--------|:-----------:|---------|
-| **OSINT & Reconnaissance** | ⭐⭐⭐⭐ | Google Dorking, WHOIS Analysis, Reverse IP Lookup, Wappalyzer, Wayback Machine, HTTrack |
-| **Network Security** | ⭐⭐⭐⭐ | Nmap scanning, Wireshark traffic analysis, network fundamentals |
-| **Threat Detection & Monitoring** | ⭐⭐⭐⭐ | Security monitoring, suspicious activity detection, log-based analysis |
+| **OSINT & Reconnaissance** | ⭐⭐⭐⭐ | Google Dorking, WHOIS, Reverse IP Lookup, Wappalyzer, Wayback Machine, HTTrack, Maltego |
+| **Network Security** | ⭐⭐⭐⭐ | Wireshark packet analysis, Nmap scanning, network fundamentals |
+| **Intrusion Detection** | ⭐⭐⭐ | Snort / Suricata rule-based detection fundamentals |
+| **SIEM & Threat Detection** | ⭐⭐⭐ | Splunk Enterprise Security, Microsoft Sentinel, Wazuh — log correlation & alerting |
+| **EDR / XDR** | ⭐⭐⭐ | CrowdStrike Falcon — endpoint detection & response fundamentals |
+| **Penetration Testing** | ⭐⭐⭐ | Kali Linux, Burp Suite, Metasploit Framework |
 | **Incident Response** | ⭐⭐⭐ | IR fundamentals, event log analysis, response workflow basics |
 | **Log Analysis** | ⭐⭐⭐⭐ | Windows Event Logs, security event correlation |
 | **Cloud Security Fundamentals** | ⭐⭐⭐ | AWS Cloud Foundations, core cloud architecture & security concepts |
-| **Blue Team Fundamentals** | ⭐⭐⭐ | SOC workflows, defensive monitoring, security hygiene practices |
 
 </div>
 
@@ -202,7 +230,8 @@ This project combines **Google Dorking** for exposed information discovery, **WH
 ## 💼 Experience
 
 ### Cybersecurity Intern
-**[Organization Name]** | *[Start Date] – [End Date]*
+**RESHAPP SOFTWARE SOLUTIONS PVT.LTD.** | *[NOVEMBER-2024] – [MAY-2025]*
+**SUPRAJA TECHNOLOGIES** | *[MAY-2026] – [JULY-2026]*
 
 Completed a cybersecurity internship focused on building foundational skills in security operations, reconnaissance techniques, and defensive security practices.
 
