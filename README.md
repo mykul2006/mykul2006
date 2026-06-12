@@ -275,8 +275,6 @@ Completed a cybersecurity internship focused on building foundational skills in 
 
 ![Cybersecurity Internship](https://img.shields.io/badge/Cybersecurity-Internship%20Certificate-6D28D9?style=for-the-badge&logo=hackthebox&logoColor=white)
 
-> *Add additional certifications here as you earn them, following the same badge format.*
-
 ---
 
 ## 💻 Coding Profiles
@@ -286,10 +284,10 @@ Completed a cybersecurity internship focused on building foundational skills in 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/mykul2006)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/mykul2006)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/mykul2006)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-A78BFA?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/mykul2006)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-A78BFA?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/maithreyakvl)
+[![Ranges.io](https://img.shields.io/badge/Ranges.io-Profile-6D28D9?style=for-the-badge&logo=hackthebox&logoColor=white)](https://ranges.io/profile/Mykul)
 
 </div>
-
 ---
 
 ## 📊 GitHub Analytics
